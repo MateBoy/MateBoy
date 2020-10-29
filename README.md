@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello
+I work as a front end developer in Stockholm, Sweden. I think CSS is underrated as a programming language. Yes, I said it.
+
+Sometimes I document things I know and want to remember in this [knowledge database](https://wiki.mathiasborgmalm.dev).
+
+Apart from that, I also enjoy
+- [Listening to a lot of music](https://www.last.fm/user/MeTRoD)
+- [Watching films](https://letterboxd.com/MateBoy/)
+- [Playing video games](https://howlongtobeat.com/user?n=MateBoy)
 
 <!--
 **MateBoy/MateBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
